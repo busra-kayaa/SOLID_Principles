@@ -1,0 +1,7 @@
+C:\Users\Busra\source\repos\DIP_2207\DIP_2207\obj\Debug\DIP_2207.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\DIP_2207\DIP_2207\obj\Debug\DIP_2207.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\DIP_2207\DIP_2207\bin\Debug\DIP_2207.exe.config
+C:\Users\Busra\source\repos\DIP_2207\DIP_2207\bin\Debug\DIP_2207.exe
+C:\Users\Busra\source\repos\DIP_2207\DIP_2207\bin\Debug\DIP_2207.pdb
+C:\Users\Busra\source\repos\DIP_2207\DIP_2207\obj\Debug\DIP_2207.exe
+C:\Users\Busra\source\repos\DIP_2207\DIP_2207\obj\Debug\DIP_2207.pdb
